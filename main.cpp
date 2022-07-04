@@ -6,7 +6,7 @@
 using namespace std;
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-//Este Proyecto fue realizado por RaulIsmaelTrochezBarahona #61841297
+//Este Proyecto fue realizado por RaulIsmaelTrochezBarahona
 //Programa para el registro de Productos Cosmeticos con diferentes opciones en la base de datos txt
 // como ser: Agregar,Ver productos,Buscar,Modificar,Eliminar
 
